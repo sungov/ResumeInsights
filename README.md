@@ -1,12 +1,29 @@
-# ResumeInsights
-Welcome to the Resume Parsing & Matching Tool!
+# Resume Parsing & Matching Tool - Overview
 
-This tool helps you efficiently analyze and compare candidate resumes against job descriptions. Here's a quick overview:
+This tool streamlines the analysis and comparison of candidate resumes against job descriptions.
 
-    Evaluation Weights (Sidebar): Use the sliders on the left to adjust the importance of Skills, Experiences, and Certifications in the matching process.
-    Upload & Process Tab: Upload multiple resume files (PDF or DOCX) and a single Job Description file (PDF or DOCX). Click 'Process Resumes' to analyze them.
-    Dashboard Tab: View a summary of processed candidates, their match scores, key information extracted from their resumes, and the final recommendation. You can also filter candidates by the final decision.
-    Export Data Tab: Download the processed candidate data as a CSV file for further analysis or record-keeping.
-    Semantic Search Tab: Perform natural language searches across the processed candidate profiles to find specific qualifications or experiences.
-    Interview Questions Tab: Select a processed candidate to generate competency-based interview questions tailored to their profile and the job description.
-    Feedback Tab: Provide and review feedback on individual candidate recommendations.
+## Key Features:
+
+**Evaluation Weights (Sidebar):**
+- Adjust the importance of **Skills**, **Experiences**, and **Certifications** using the sliders to customize the matching process.
+
+**Upload & Process Tab:**
+- **Upload:** Supports multiple resume files (PDF or DOCX) and a single Job Description file (PDF or DOCX).
+- **Process:** Click the 'Process Resumes' button to analyze the uploaded files.
+
+**Dashboard Tab:**
+- **Summary:** View a comprehensive summary of processed candidates, including their match scores and key extracted information.
+- **Recommendation:** See the final recommendation for each candidate.
+- **Filtering:** Filter candidates based on the final decision.
+
+**Export Data Tab:**
+- **Download:** Export the processed candidate data as a CSV file for further analysis or record-keeping.
+
+**Semantic Search Tab:**
+- **Natural Language Search:** Perform natural language searches across processed candidate profiles to find specific qualifications or experiences.
+
+**Interview Questions Tab:**
+- **Tailored Questions:** Generate competency-based interview questions customized to a selected candidate's profile and the job description.
+
+**Feedback Tab:**
+- **Provide & Review:** Offer and review feedback on individual candidate recommendations.
